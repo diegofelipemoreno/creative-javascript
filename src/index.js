@@ -1,0 +1,10 @@
+import './app.css';
+//import './exercises/silly-house';
+//import './exercises/rectangle';
+//import './exercises/rectangle2';
+//import './exercises/skewing';
+//import './exercises/curves';
+//import './exercises/grid';
+//import './exercises/audio';
+//import './exercises/audio-arcs';
+import './exercises/particles';
